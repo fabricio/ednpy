@@ -4,7 +4,7 @@ valor_em_reais = 100.00
 taxa_dolar = 5.70
 taxa_euro = 6.40
 # Conversões
-valor_em _dolares = valor_em_reais / taxa_dolar
+valor_em_dolares = valor_em_reais / taxa_dolar
 valor_em_euros = valor_em_reais / taxa_euro
 # Exibição dos resultados
 print(f"Valor em Reais: R$ {valor_em_reais: .2f}")
